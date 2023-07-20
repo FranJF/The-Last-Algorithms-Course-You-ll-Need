@@ -1,3 +1,6 @@
+## FranJF   
+Based on @ThePrimeagen course in frontendmasters.com, implementing the algorithms myself in order to really learn it. The rest of the README is written by ThePrimeagen in the (original repo)[https://github.com/ThePrimeagen/kata-machine].
+
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
